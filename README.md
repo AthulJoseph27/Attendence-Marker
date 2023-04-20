@@ -1,3 +1,5 @@
+# Attendence Marker
+
 ## Algorithm
 
 - Uses Haar Cascade to detect faces from frame.
