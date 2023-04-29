@@ -1,0 +1,13 @@
+datasets/videos/*
+datasets/test/*
+datasets/unknown/*
+datasets/_Unknown/*
+datasets/fvc.csv
+tmp/*
+src/logs/*
+models/*
+outputs/*
+*/__pycache__/*
+.DS_STORE
+*.zip
+Good\ Models/*
